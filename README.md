@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I try never to understand. It's called an open mind.
